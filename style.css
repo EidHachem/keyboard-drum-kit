@@ -34,12 +34,12 @@ main {
   justify-content: center;
   align-items: center;
   gap: 1em;
-  width: 7em;
+  width: 5em;
   border: 2px solid #000;
-  padding: 1.5em;
+  padding: 1em;
   background: rgba(0, 0, 0, 0.3);
   transition: all 0.07s ease;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 
 .press {
@@ -51,5 +51,6 @@ main {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #99230e;
+  color: #ee310f;
+  font-weight: bold;
 }
