@@ -38,7 +38,7 @@ main {
   border: 2px solid #000;
   padding: 1.5em;
   background: rgba(0, 0, 0, 0.3);
-  transition: all 0.7s ease;
+  transition: all 0.07s ease;
   font-size: 1.5rem;
 }
 
